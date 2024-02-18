@@ -14,5 +14,7 @@
 2) Calinski-Harabasz Score: Quantifies the ratio of between-cluster dispersion mean to within-cluster dispersion, indicating the clarity of clusters.
 3) Davies-Bouldin Score: Measures average cluster similarity to its most akin cluster, with lower scores indicating better clustering.
 
+![alt text](https://github.com/ThatSpaceCowboy/Clustering-Analysis/blob/main/analysis_final_result.png?raw=true)
+
 ## Summary:
 PCA preprocessing exhibits superior performance across Silhouette, Calinski-Harabasz, and Davies-Bouldin Scores, signifying clearer and more distinct clusters compared to alternative preprocessing methods.
